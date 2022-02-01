@@ -1,0 +1,15 @@
+type: edu
+files:
+- name: task.py
+  visible: true
+  placeholders:
+  - offset: 137
+    length: 177
+    placeholder_text: '# Your code here. Use season_num as a variable for the season
+      number'
+- name: tests/test_task.py
+  visible: false
+- name: __init__.py
+  visible: false
+- name: tests/__init__.py
+  visible: false

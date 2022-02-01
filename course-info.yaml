@@ -1,0 +1,10 @@
+type: marketplace
+title: Baldus Python Course
+language: English
+summary: This is an introductory Python course. For this course I will be trying a
+  new approach to learning programming that emphasizes reading code and making changes
+  to see what happens.
+programming_language: Python
+environment: unittest
+content:
+- Uncategorized Tasks
