@@ -7,4 +7,5 @@ summary: This is an introductory Python course. For this course I will be trying
 programming_language: Python
 environment: unittest
 content:
+- Introduction
 - Uncategorized Tasks
