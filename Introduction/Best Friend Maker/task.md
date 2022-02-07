@@ -22,7 +22,6 @@ I dislike onions on my pizza! Just like you!
 What is your favorite class? <b>I.T.</b>
 Wow! My favorite class is I.T., as well!
 We like all the same things! We should become best friends!
-
 </pre>
 
 ## Summary

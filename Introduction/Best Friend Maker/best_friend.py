@@ -1,10 +1,10 @@
 # Best Friend Maker
 
-print("Hi! I'm the computer.")
+print("Hi. I'm the computer.")
 name = input("What's your name? ")
 
 # Favorite Color
-color = input(f"Hi {name}! What's your favorite color? ")
+color = input(f"Hi, {name}! What's your favorite color? ")
 print(f"No way! My favorite color is also {color}!")
 
 # Favorite Movie

@@ -3,28 +3,30 @@ files:
 - name: best_friend.py
   visible: true
   placeholders:
-  - offset: 362
+  - offset: 323
+    length: 7
+    placeholder_text: '# How do you insert the value of the variable here?'
+  - offset: 363
     length: 30
     placeholder_text: '# What will the prompt be?'
-  - offset: 402
+  - offset: 403
     length: 49
     placeholder_text: '# What is the reaction? (Include the response from the previous
       question)'
-  - offset: 496
+  - offset: 497
     length: 52
     placeholder_text: '# Ask about least favorite pizza topping'
-  - offset: 549
+  - offset: 550
     length: 57
     placeholder_text: '# Print a reaction'
-  - offset: 625
+  - offset: 626
     length: 108
     placeholder_text: '# Put both lines here. (Use ''fav_class'' as your variable)'
-  - offset: 322
-    length: 7
-    placeholder_text: '# How do you insert the value of the variable here?'
 - name: tests/test_task.py
   visible: false
 - name: __init__.py
+  visible: false
+- name: tests/output.txt
   visible: false
 - name: tests/__init__.py
   visible: false
